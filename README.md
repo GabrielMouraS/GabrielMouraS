@@ -12,4 +12,4 @@
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
  </div><br/>
   
-  Adoro a tecnologia, e a cada dia espero aprender mais.
+  A cada dia espero aprender mais.
