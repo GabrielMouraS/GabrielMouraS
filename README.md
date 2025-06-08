@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gabriel Moura 🖐️
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( https://mail.google.com/mail/u/gabrielmouragtxgv@gmail.com)
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515988183706)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabriel.santos467@fatec.sp.gov.br)
 
 ## Conhecimento em algumas áreas
