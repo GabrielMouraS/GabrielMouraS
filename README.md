@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Moura 🖐️
+## Olá! Eu sou Gabriel Moura 🖐️
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( https://mail.google.com/mail/u/gabrielmouragtxgv@gmail.com)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabriel.santos467@fatec.sp.gov.br)
@@ -9,16 +9,19 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
- 
- </div><br/>
+  
+ </div>
+ <div style="display: inline_block"><br/>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <div style="display: inline_block"><br/>
-    
-  </div><br/>
+  <img align="center" alt="VPS" src="https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=server&logoColor=white"/>
+  <img align="center" alt="SSH" src="https://img.shields.io/badge/SSH-2E8B57?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+  <img align="center" alt="Redes" src="https://img.shields.io/badge/Redes%20de%20Internet-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+</div><br/>
   A cada dia espero aprender mais.
