@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( https://mail.google.com/mail/u/gabrielmouragtxgv@gmail.com)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabriel.santos467@fatec.sp.gov.br)
 
-## Conhecimento em algumas linguagens, ferramentas e SOs
+## Conhecimento em algumas linguagens, ferramentas, SGBDs e SOs
 <div style="display: inline_block"><br/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
