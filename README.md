@@ -19,8 +19,6 @@
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="VPS" src="https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=server&logoColor=white"/>
-  <img align="center" alt="SSH" src="https://img.shields.io/badge/SSH-2E8B57?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
   <img align="center" alt="Redes" src="https://img.shields.io/badge/Redes%20de%20Internet-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div><br/>
